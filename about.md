@@ -14,8 +14,10 @@ Related to learning Shader.
 
 ## About my usual software:
 MAYA, Zbrush, Substance 3D Painter, Photoshop, Marvelous Designer
+
 Known, but not proficient software:
 Houdini, Mari, Substance 3D Designer
+
 A special existence:
 Bender, I often use it for some operations that I can't do on Maya, such as the conversion of various formats.
 
