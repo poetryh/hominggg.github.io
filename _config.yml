@@ -52,7 +52,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
   twitter: PoetryVRC
-  youtube:H Poetry
+  #youtube:H Poetry
 
 # Text under the icons in footer
 footer-text: Copyright (c) 2019 lemon 
