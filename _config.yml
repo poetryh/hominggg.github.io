@@ -20,7 +20,7 @@ favicon: https://github.com/hominggg/hominggg.github.io/blob/master/MDJU%7D8WZ$U
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Front Page.
+  - name: Front Page
     url: /
   - name: About
     url: /about
@@ -51,7 +51,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: PoetryVRC
+  twitter: Poetry_VRC
   #youtube:H Poetry
 
 # Text under the icons in footer
