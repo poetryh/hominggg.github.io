@@ -9,4 +9,4 @@ author: PoetryH
 
 This is test blog.
 
-Add my VRChat friend!
+Add me as your VRChat friend.
