@@ -32,11 +32,11 @@ Search map: CIMS Grand Theater This is a performance map I made for CIMS, includ
 # About the world I plan to make in the future:
 CIMS Daily Style World: Contains super large scenes, beautiful rendering styles, extreme optimization, etc., so stay tuned!
 
-**Contact my email/Twitter! It's under my blog homepage!
+** Contact my email/Twitter! It's under my blog homepage! **
 
-My Discord: PoetryH#8057
+** My Discord: PoetryH#8057 ** 
 
-My QQ: 2660996043**
+** My QQ: 2660996043 **
 
 
 
