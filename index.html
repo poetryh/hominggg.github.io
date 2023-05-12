@@ -33,6 +33,16 @@ layout: default
 	exclude: ['Welcome']
   })
 </script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4QMFS07ZT8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4QMFS07ZT8');
+</script>
  
 {% if site.posts.size == 0 %}
   <h2>No post found</h2>
