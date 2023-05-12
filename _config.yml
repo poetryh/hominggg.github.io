@@ -69,8 +69,6 @@ gitalk:
   repo: hominggg.github.io
   owner: hominggg
 
-# Enter your Google Analytics web tracking code (e.g. G-4QMFS07ZT8) to activate tracking
-google_analytics: G-4QMFS07ZT8
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.Poetryh.co)
 # Used for Sitemap.xml and your RSS feed
