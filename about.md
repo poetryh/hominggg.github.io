@@ -4,17 +4,34 @@ title: About
 permalink: /about/
 ---
 
-## 关于我
-你好，我是程序员柠檬。
+## About Me:
+## Hello, I'm Poetry
 
-国内一线互联网大厂计算机软件工程师、[知乎](https://www.zhihu.com/people/ning-meng-cheng-31-94)编程领域万赞答主。
+My major is model design and scene design.
 
-[个人技术公众号](https://mp.weixin.qq.com/mp/homepage?__biz=MzkwOTE2OTY1Nw==&hid=1&sn=6395e40d884ce4dd3900a68a0f5a6b87&scene=18#wechat_redirect)分享编程学习路线、编程学习资源，记录技术成长，欢迎扫码添加：
+I am not a Unity major, I am self-study, and I am weak in C#, but I can understand it, including importing other people's packages, and solving most of the errors that are prone to occur in the console.
+Related to learning Shader.
 
-![公众号二维码](https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png)
+## About my usual software:
+MAYA, Zbrush, Substance 3D Painter, Photoshop, Marvelous Designer
+Known, but not proficient software:
+Houdini, Mari, Substance 3D Designer
+A special existence:
+Bender, I often use it for some operations that I can't do on Maya, such as the conversion of various formats.
+
+## About VRChat:
+I am in the process of making an order for the world, starting from 6/1/2023, welcome to contact me
+
+# About my work in VRchat:
+Search for PoetryH to see its map, it's a landscape map with panels for post-processing for user debugging, beautiful aurora, cherry blossom trees. He is my starting point for Unity, C#, shader, I will continue to learn!
+Search map: CIMS Grand Theater This is a performance map I made for CIMS, including beautiful interior effects, backstage function customization, and beautiful lighting baking.
+
+# About the world I plan to make in the future:
+CIMS Daily Style World: Contains super large scenes, beautiful rendering styles, extreme optimization, etc., so stay tuned!
+
+**Contact my email/Twitter! It's under my blog homepage!
+My Discord: PoetryH#8057
+My QQ: 2660996043**
 
 
 
-## 版权声明
-
-博客文章是我原创文章，存档于_posts 文件夹下，版权归我所有，转载请与我联系获得授权许可。
