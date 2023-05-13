@@ -17,13 +17,13 @@ author: PoetryH
 
 Click it if you want to play:
 
-![JP][def4]
+![JP](def4)
 
-![EU][def3]
+![EU](def3)
 
-![USE][def2]
+![USE](def2)
 
-![USW][def]
+![USW](def)
 
 
 
