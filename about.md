@@ -27,7 +27,7 @@ I am in the process of making an order for the world, starting from 6/1/2023, we
 # About my work in VRchat:
 Search for PoetryH to see its world, it's a landscape map with panels for post-processing for user debugging, beautiful aurora, cherry blossom trees. He is my starting point for Unity, C#, shader, I will continue to learn!
 
-Search map: CIMS Grand Theater This is a performance map I made for CIMS, including beautiful interior effects, backstage function customization, and beautiful lighting baking.
+Search map: CIMS Grand Theater This is a performance world I made for CIMS, including beautiful interior effects, backstage function customization, and beautiful lighting baking.
 
 # About the world I plan to make in the future:
 CIMS Daily Style World: Contains super large scenes, beautiful rendering styles, extreme optimization, etc., so stay tuned!
